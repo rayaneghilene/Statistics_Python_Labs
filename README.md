@@ -39,7 +39,7 @@ To run the notebook, you need the following:
 You can install the necessary libraries by running `pip install -r requirements.txt` in your Python environment.
 
 ## License
-This project is licensed under the MIT License. Feel free to use the code provided in this repository for educational and personal purposes.
+Feel free to use the code provided in this repository for educational and personal purposes.
 
 ## Acknowledgments
 Special thanks to [Rayane Ghilene](https://github.com/rayaneghilene) for his contributions to this project.
