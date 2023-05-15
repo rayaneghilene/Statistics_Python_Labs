@@ -1,7 +1,7 @@
 # Statistics_Python_Labs
 
-This repository contains the code for the Statistics Python Labs, specifically for the TP3_Stat_GHILENE_CHERMAT notebook.
 ![My Project](https://github.com/rayaneghilene/ENSEA_AI_Labs/blob/283948d09f73231c4cfba91becbe4bb01973b4f4/Ensea_linkedin_banner10.png)
+This repository contains the code for the Statistics Python Labs, specifically for the TP3_Stat_GHILENE_CHERMAT notebook.
 
 ## Overview
 The TP3_Stat_GHILENE_CHERMAT notebook focuses on statistical analysis using Python. It covers various statistical concepts and techniques, providing practical examples and exercises.
